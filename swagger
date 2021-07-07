@@ -1,0 +1,3 @@
+#!/bin/bash
+
+./swagger-generator/vendor/zircote/swagger-php/bin/openapi ./swagger-project -o ./swagger-project/swagger.json
